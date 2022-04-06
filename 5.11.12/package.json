@@ -1,0 +1,18 @@
+{
+  "name": "tsup_issues_596_51112",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "@types/babel__traverse": "^7.14.2",
+    "tsup": "^5.11.12",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@babel/traverse": "^7.17.3",
+    "@babel/types": "^7.17.0"
+  }
+}
